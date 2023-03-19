@@ -1,6 +1,6 @@
 # 💫About Me :
 Hi I'm newbie  Front-End dev
-I have had work-experience for 6 months with Reactjs Front-End dev 
+I have had work-experience for 1 year with Reactjs Front-End dev 
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100009257124188) 
