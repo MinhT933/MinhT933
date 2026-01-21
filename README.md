@@ -1,7 +1,7 @@
 
 # 👋 Hi, I’m MinhT933
 
-### Backend Engineer · Golang · System-Oriented
+### Backend Engineer · Golang · Nestjs/Nodejs · System-Oriented
 
 I’m a backend-oriented software engineer focusing on building **reliable services, clean APIs, and scalable systems**.
 
@@ -74,7 +74,5 @@ who understands how data flows, how systems fail,
 and how to design for scale and safety.
 
 📫 Contact
-
-🌐 Website: [https://www.minht.io.vn](https://portfolio.minht.io.vn/)
 
 📧 Email: phammanhtoanhht933@gmail.com
